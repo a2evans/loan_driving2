@@ -46,4 +46,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# files for database - too big to upload
 .ipynb_checkpoints
+.csv
+.xlsx
+.sqlite
+.swp
