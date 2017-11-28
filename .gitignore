@@ -48,8 +48,9 @@ Temporary Items
 
 # files for database - too big to upload
 .ipynb_checkpoints
-/*.csv
-/*.xlsx
-/*.sqlite
+loan.csv
+LCDataDictionary.xlsx
+database.sqlite
 *.swp
-*.gitignore
+.gitignore~
+..gitignore.un~
